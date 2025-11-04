@@ -15,7 +15,7 @@ Utilizei o Copilot para revisar minha pesquisa e estruturar os tópicos. O Leona
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo visual, leve e  educativo, mostrando como as IAs generativas podem ser aliadas na criação de materiais que despertam curiosidade e promovem o conhecimento.
-[📘 Clique aqui para acessar o e-book]()
+[📘 Clique aqui para acessar o e-book](Curiosidades que Encantam.docx)
 
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi um ótimo aprendizado, onde pude explorar minha criatividade de forma livre e inspiradora. As IAs me ajudaram a dar forma ao conteúdo e a transmitir, por meio de imagens e textos, a realidade  que acontece na natureza. Descobri que a tecnologia pode nos mostrar, de forma ainda mais vívida, aquilo que muitas vezes não conseguimos presenciar com os próprios olhos.
